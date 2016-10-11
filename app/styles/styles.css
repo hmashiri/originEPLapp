@@ -1,7 +1,8 @@
 body
 {
 	background-image: url(http://img09.deviantart.net/ff0c/i/2015/231/e/0/sergio_aguero_2015_16_m9_by_marayu9-d96apuv.png);
-	background-size: 100%;
+	background-size: 112%;
+	background-attachment: fixed;
 	background-repeat: no-repeat;
 
 }
